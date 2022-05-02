@@ -1,1 +1,6 @@
 Put this folder in this address: sd:/luma/plugins/
+
+What do these cheats include?
+
+-Camera movement
+-View of the game from different angles
