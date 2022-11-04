@@ -1,0 +1,19 @@
+***Put the folder (00040000000F8000) in this address: sd:/cheats/***
+
+What do these cheats include?
+
+-Camera movement & popping
+-View of the game from different angles
+-Some NPCs appear suddenly
+-Modify element,genre,position,...
+-Modify color & player's size
+-Insert some players in your team
+-Exchange 3d models for others
+-Change some text in the menu
+
+***Put the .plg in this address: sd:/luma/plugins/***
+
+
+
+*These cheats works in Citra too, you can find the codes in the txt file of the 00040000000F8000 folder
+
