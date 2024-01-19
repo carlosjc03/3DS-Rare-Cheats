@@ -1,0 +1,27 @@
+[++Sprite's animations++]
+
+[++Vaniville Town++]{Only works in Vaniville Town. For working cheat needs that you go to any house of this town and then exit of it. Also it works in Aquacorde Town if you have been in Vaniville Town first (going to any house too) and you have not entered any house or you have not had any pokemon battle in Aquacorde Town}
+
+[Animation 1]
+08D0641C 00000000
+{sprite without movement, default}
+
+[Animation 2]
+08D0641C 00000001
+{sprite without movement v2}
+
+
+[Animation 20]
+08D0641C 00000010
+{run}
+
+[Animation 21]
+08D0641C 00000011
+{run v2}
+
+[Animation 22]
+08D0641C 00000012
+{run v3}
+
+[--]
+[--]
