@@ -1,4 +1,6 @@
-***Put the folder (00040000000F8000) in this address: sd:/cheats/***
+***Put the 00040000000F8000 folder in this address of your 3ds: sd:/cheats/***
+***If you want to make cheats: create a a folder with name 00040000000F8000 in this address: sd:/plugin/*** and put .plg file inside it
+***These cheats works in Citra too, you can find the codes in the txt file of the 00040000000F8000 folder***
 
 What do these cheats include?
 
@@ -11,9 +13,5 @@ What do these cheats include?
 -Exchange 3d models for others
 -Change some text in the menu
 
-***Put the .plg in this address: sd:/luma/plugins/***
 
-
-
-*These cheats works in Citra too, you can find the codes in the txt file of the 00040000000F8000 folder
-
+Updates coming soon...
